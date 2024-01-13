@@ -1,5 +1,3 @@
-[{"alumno":"Pedro","nota":9.09,"ranking":10},{"alumno":"Juan","nota":4,"ranking":150},...]
-
 [
    {
       "alumno":"Diego Pachacama",
